@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @Namrathabp
-- 👀 I’m interested in Data analysis...
-- 🌱 I’m currently learning Tableau, SQL, Machine Learning...
-- 💞️ I’m looking to collaborate on Data Analysis related Projects...
-- 📫 How to reach me, namrathabp123@gmail.com...
+# 👋 Hi, I'm Namrathabp!
 
-<!---
-Namrathabp/Namrathabp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 **Software Engineer**  
+📍 Passionate about building efficient, scalable systems and solving complex problems.
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **Languages:** Python
+- **Core Skills:** Data Structures & Algorithms (DSA), System Design
+- **Frameworks:** Flask
+- **Databases:** SQL, DBMS
+
+---
+
+## 🚀 About Me
+
+I’m an enthusiastic Software Engineer with a knack for backend technologies and a love for solving real-world challenges through code. I enjoy exploring new tools and keeping up with the latest in tech.
+
+---
+
+<!--
+## 🌐 Connect with me
+www.linkedin.com/in/namratha-b-p-827a1922a
+-->
+
+Thanks for stopping by! 🚀
