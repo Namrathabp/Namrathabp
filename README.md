@@ -7,9 +7,9 @@
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Python
+- **Languages:** Python, HTML, CSS, JavaScript
 - **Core Skills:** Data Structures & Algorithms (DSA), System Design
-- **Frameworks:** Flask
+- **Frameworks:** Flask, React JS
 - **Databases:** SQL, DBMS
 
 ---
