@@ -9,7 +9,7 @@
 
 - **Languages:** Python, HTML, CSS, JavaScript
 - **Core Skills:** Data Structures & Algorithms (DSA), System Design
-- **Frameworks:** Flask, React JS
+- **Frameworks:** Flask, React JS, Robot Framework
 - **Databases:** SQL, DBMS
 
 ---
